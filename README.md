@@ -29,6 +29,13 @@ Os vídeos seguirão a mesma ordem dos notebooks, então é recomendado que voc�
 
 Você pode abrir os notebooks no Google Colab ou no Jupyter Notebook. Para abrir no Google Colab, basta clicar no ícone abaixo:
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ITalents/CD-Introducao-a-Ciencia-de-dados)
+
+Para abrir no Jupyter Notebook, basta clicar no ícone abaixo:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ITalents/CD-Introducao-a-Ciencia-de-dados/HEAD)
+
+
 
 
 
