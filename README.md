@@ -21,6 +21,8 @@ CD-Introducao-a-Ciencia-de-dados
 │   ├── 02_Analise_Componentes_Principais.ipynb
 │   ├── 03_Selecao_de_Variaveis.ipynb
 │   ├── 04_Exercicios_Modulo_EDA.ipynb
+│   ├── 05_EDA_Automatizada.ipynb
+
 ```
 
 Os vídeos seguirão a mesma ordem dos notebooks, então é recomendado que você assista o vídeo e conjuntamente abra o notebook para acompanhar o conteúdo. Além dissos, os notebooks possuem comentários e explicações que podem ser úteis para o seu aprendizado.
