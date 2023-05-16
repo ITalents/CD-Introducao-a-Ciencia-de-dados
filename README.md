@@ -1,4 +1,4 @@
-# CD-Introducao-a-Ciencia-de-dados
+# Módulo de Introdução a Ciência de Dados
 
 Seja bem-vindo ao repositório do módulo de Introdução a de Ciência de Dados da iTalents! 🚀🚀🚀 
 
